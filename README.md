@@ -1,31 +1,26 @@
 # About The Project
 ## 
-## Images
-![welcome interface.](ageCal2.PNG "This is the welcome interface")
-## 
+# Image
+![welcome interface.](ageCal.PNG "This is the welcome interface")
 
 # Built With
-### 
 * Java Script
 * CSS
 * HTML
 
 # Author
-###
 * Ezekiel Ogunniwa
     * Github: https://github.com/Eminentzeal
     * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
     * Twitter: https://twitter.com/Ogunniwaezekiel
 
 # Facilitators
-###
 * Godwin Nwachukwu
     * https://github.com/Gnwin
 * Chioma James
     * https://github.com/Chiomy
 
 # Acknowledgements
-### 
 * HomeFrontStartup
     * http://homefrontstartup.com.ng/
 * Mentors International
@@ -33,8 +28,6 @@
     * https://www.facebook.com/mentorshubyola/
     * https://twitter.com/hub_mic
     * https://www.linkedin.com/company/michub/
-    
-
 
 # Live Demo
 [See project live here] (https://raw.githack.com/Eminentzeal/Age-Calculator/master/agecal.html)
