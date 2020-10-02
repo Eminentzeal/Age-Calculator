@@ -8,45 +8,43 @@
 </head>
 <body class="background">
     
-    <div class="parent">
-        <div class="pdiv">
+    <div class="parent" >
+        <div class="pdiv" id="firstDiv">
             <div class="agecal">
                 <h2>Welcome to</h2>
                 <h1 class="agecal">Age Calculator</h1>
             </div>
         
             <div class="button">
-                <button class="inbutton">Start</button>
+                <button class="inbutton" type="button" id="startButton"> Start</button>
             </div>
         </div>
         
-    
-
-    <p>
-        <div class="pdiv">
+        <div class="pdiv hidden" id="secondDiv">
             <h3 class="agecal">Age Calculator</h3>
             <form>
                 <div class="input">
                     <input type="text" class="block" name="" id="yourName" placeholder="Enter Your Name Here" required/>
                 </div>
                 <div class="input">
-                    <input type="text" class="block" name="" id="yourName" placeholder="Enter Your Age Here" required/>
+                    <input type="text" class="block" name="" id="yourAge" placeholder="Enter Your Age Here" required/>
                 </div>
             </form>
             <div class="button">
-                <button class="inbutton">Submit</button>
+                <button class="inbutton" type="submit" id="submitButton">Submit</button>
             </div>
         </div>
-    </p>
         
-        <div class="pdiv">
-            <h3 class="agecal"class AgeCal>Age Calculator</h3>
+        <div class="pdiv hidden" id="thirdDiv">
+            <h3 class="agecal"class AgeCal>
+                Age Calculator
+            </h3>
             <form>
                 <div class="input">
-                    <input type="text" class="block2" name="" id="yourName" value="Name:" required/>
+                    <input type="text" class="block2" name="" id="yourN" value="Name:" required/>
                 </div>
                 <div class="input">
-                    <input type="text" class="block2" name="" id="yourName" value="Age:" required/>
+                    <input type="text" class="block2" name="" id="yourA" value="Age:" required/>
                 </div>
                 <div class="message">
                     You have lived --------days on earth
@@ -55,7 +53,7 @@
             </form>
             
             <div class="button2">
-                <button class="inbutton2">Reset
+                <button class="inbutton2" type="reset" id="resetButton">Reset
                 </button>
             </div>
            
@@ -65,4 +63,5 @@
 
     </div>
 </body>
+<script src="agecal.js"></script>
 </html>
