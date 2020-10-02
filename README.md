@@ -1,7 +1,7 @@
 # About The Project
 ## 
 ## Images
-![welcome interface.](ageCal2.png "This is the welcome interface")
+![welcome interface.](ageCal2.PNG "This is the welcome interface")
 ## 
 
 # Built With
@@ -11,10 +11,11 @@
 * HTML
 
 # Author
+###
 * Ezekiel Ogunniwa
     * Github: https://github.com/Eminentzeal
     * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
-* Twitter: https://twitter.com/Ogunniwaezekiel
+    * Twitter: https://twitter.com/Ogunniwaezekiel
 
 # Facilitators
 ###
