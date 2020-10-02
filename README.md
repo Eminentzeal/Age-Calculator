@@ -5,7 +5,7 @@
 ## 
 
 # Built With
-### unordered
+### 
 * Java Script
 * CSS
 * HTML
@@ -17,7 +17,7 @@
 * Twitter: https://twitter.com/Ogunniwaezekiel
 
 # Facilitators
-### unordered
+###
 * Godwin Nwachukwu
     * https://github.com/Gnwin
 * Chioma James
