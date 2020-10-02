@@ -24,7 +24,7 @@
     * https://github.com/Chiomy
 
 # Acknowledgements
-### unordered
+### 
 * HomeFrontStartup
     * http://homefrontstartup.com.ng/
 * Mentors International
