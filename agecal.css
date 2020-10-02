@@ -33,10 +33,6 @@
     height: 50px;    
    
 }
-
-
-
-
 .inbutton {
     padding-right: 10%;
     padding-left: 10%;
@@ -67,7 +63,7 @@
 }
 
 #lastMessage {
-    background-color: blueviolet;
+    background-color: rgb(204, 42, 42);
     width: 50%;
     height: 50%;
     border: black;

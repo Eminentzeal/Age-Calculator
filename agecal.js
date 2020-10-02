@@ -6,6 +6,7 @@ const disName = document.querySelector('.disName');
 const disAge = document.querySelector('.disAge');
 const disDays = document.querySelector('.disDays');
 const page3 = document.querySelector('#lastMessage');
+const reset = document.getElementById('resetButton')
 
 startButton.addEventListener('click',function(){
     page2.classList.remove('hidden');
@@ -34,6 +35,10 @@ submitBtn.addEventListener('click',function(){
     page2.classList.add('hidden');
     page3.classList.remove('hidden');
 })
+reset.addEventListener('click',function(){
+    page1.classList.remove('hidden');
+    page3.classList.add('hidden');
 
+})
 
    
