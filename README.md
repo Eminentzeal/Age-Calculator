@@ -1,7 +1,7 @@
 # About The Project
 ## 
 ## Images
-![welcome interface.](/image/ageCal2.png "This is the welcome interface")
+![welcome interface.](ageCal2.png "This is the welcome interface")
 ## 
 
 # Built With
@@ -35,5 +35,5 @@
     
 
 
-## Live Demo
+# Live Demo
 [See project live here] (https://raw.githack.com/Eminentzeal/Age-Calculator/master/agecal.html)
