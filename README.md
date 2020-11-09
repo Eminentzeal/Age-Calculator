@@ -14,9 +14,9 @@ Variation in leap years aren't considered, the calculator calculate on the bases
 
 # Author
 * Ezekiel Ogunniwa
-    * Github: https://github.com/Eminentzeal
-    * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
-    * Twitter: https://twitter.com/Ogunniwaezekiel
+  * Github: https://github.com/Eminentzeal
+  * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
+  * Twitter: https://twitter.com/Ogunniwaezekiel
 
 # Facilitators
 * [Godwin Nwachukwu](https://github.com/Gnwin).
@@ -25,12 +25,12 @@ Variation in leap years aren't considered, the calculator calculate on the bases
 
 # Acknowledgements
 * HomeFrontStartup
-    * http://homefrontstartup.com.ng/
+   * http://homefrontstartup.com.ng/
 * Mentors International
-    * https://mentorsint.com/
-    * https://www.facebook.com/mentorshubyola/
-    * https://twitter.com/hub_mic
-    * https://www.linkedin.com/company/michub/
+  * https://mentorsint.com/
+  * https://www.facebook.com/mentorshubyola/
+  * https://twitter.com/hub_mic
+  * https://www.linkedin.com/company/michub/
 
 # Live Demo
 [See project live here] (https://raw.githack.com/Eminentzeal/Age-Calculator/master/agecal.html)

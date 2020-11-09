@@ -1,0 +1,71 @@
+.background {
+  /* background-color: black; */
+}
+
+.agecal {color: white;
+  text-align: center;
+  padding: 5%;
+}
+
+.input {
+  text-align: center;
+}
+
+.button {
+  text-align: center;
+  padding-bottom: 7%;
+}
+
+.pdiv {
+  background-color: rgb(204, 42, 42);
+  border-radius: 15px;
+  width:50%;
+}
+
+.input {
+  padding-bottom: 10%;
+}
+
+.block {
+  border-radius: 4px;
+  width: 250px;
+  height: 50px;    
+}
+
+.inbutton {
+  padding-right: 10%;
+  padding-left: 10%;
+  border-radius: 25px;
+  height: 70px;
+  font-size: 150%;
+}
+
+.message {
+  text-align: center;
+  color: white;
+}
+
+.button2 {
+  text-align: center;
+  padding-bottom: 7%;
+}
+
+.inbutton2 {
+  padding-right: 10%;
+  padding-left: 10%;
+  border-radius: 25px;
+  height: 70px;
+  font-size: 150%;
+}
+.hidden {
+  display: none;
+}
+
+#lastMessage {``
+  background-color: rgb(204, 42, 42);
+  font-size: 30px;
+  border: black;
+  text-align: center;
+  border-radius: 15px;
+  width:50%;
+}

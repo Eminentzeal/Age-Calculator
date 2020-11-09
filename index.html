@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./assets/stylesheets/style.css">
+</head>
+<body class="background">
+  
+  <div class="parent" >
+    <div class="pdiv" id="firstDiv">
+      <div class="agecal">
+        <h2>Welcome to</h2>
+        <h1 class="agecal">Age Calculator</h1>
+      </div>
+  
+      <div class="button">
+        <button class="inbutton" type="button" id="startButton"> Start</button>
+      </div>
+    </div>
+  
+    <div class="pdiv hidden" id="secondDiv">
+      <h3 class="agecal">Age Calculator</h3>
+      <form>
+        <div class="input">
+          <input type="text" class="block" name="" id="yourName" placeholder="Enter Your Name Here" required/>
+        </div>
+        <div class="input">
+          <input type="text" class="block" name="" id="yourAge" placeholder="Enter Your Age Here" required/>
+        </div>
+      </form>
+      <div class="button">
+        <button class="inbutton" type="submit" id="submitButton">Calculate</button>
+      </div>
+    </div>
+        
+    <div id="lastMessage" class="hidden">
+      <p class="disName"> </p>
+      <p class="disAge"></p>
+      <p class="disDays"></p>
+      <div class="button">
+        <button class="inbutton" type="reset" id="resetButton">Reset</button>
+      </div>
+    </div>    
+
+  </div>
+  <script src="./assets/javascript/app.js"></script>
+</body>
+</html>
