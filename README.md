@@ -6,7 +6,7 @@ In this, a calculator is built and designed to calculate a person's age in numbe
 ###### NB
 Variation in leap years aren't considered, the calculator calculate on the bases of 365days in a year.
 
-##Image
+## Image
 ![welcome interface.](ageCal.PNG "This is the welcome interface")
 
 ## Built With
@@ -37,4 +37,4 @@ Variation in leap years aren't considered, the calculator calculate on the bases
 ## Live Demo
 [See project live here] (https://raw.githack.com/Eminentzeal/Age-Calculator/master/agecal.html)
 
-## This project is open to your contribution, kindly reach the Author through the above social media handles.
+### This project is open to your contribution, kindly reach the Author through the above social media handles.
