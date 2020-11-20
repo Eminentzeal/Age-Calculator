@@ -35,6 +35,8 @@ Variation in leap years aren't considered, the calculator calculate on the bases
   * https://www.linkedin.com/company/michub/
 
 ## Live Demo
-[See project live here] (https://raw.githack.com/Eminentzeal/Age-Calculator/master/agecal.html)
+[Click Here to see project live](https://eminentezekiel-age-calculator.netlify.app/)
 
-### This project is open to your contribution, kindly reach the Author through the above social media handles.
+##### This project is open to your contribution, kindly reach the Author through the above social media handles.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/28325fde-13a0-4142-8ea6-7dbea8ab69e5/deploy-status)](https://app.netlify.com/sites/eminentezekiel-age-calculator/deploys)
