@@ -7,7 +7,7 @@ In this, a calculator is built and designed to calculate a person's age in numbe
 Variation in leap years aren't considered, the calculator calculate on the bases of 365days in a year.
 
 ## Image
-![welcome interface.](ageCal.PNG "This is the welcome interface")
+![welcome interface.](/assets/images/ageCal.PNG "This is the welcome interface")
 
 ## Built With
 * Java Script
