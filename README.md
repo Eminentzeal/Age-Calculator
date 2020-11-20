@@ -1,5 +1,8 @@
-# About The Project
+Age-Calculator
+
+## About The Project
 In this, a calculator is built and designed to calculate a person's age in number of days lived on earth.
+
 ###### NB
 Variation in leap years aren't considered, the calculator calculate on the bases of 365days in a year.
 
