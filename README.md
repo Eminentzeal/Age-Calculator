@@ -27,7 +27,7 @@ Variation in leap years aren't considered, the calculator calculate on the bases
 
 ## Acknowledgements
 * HomeFrontStartup
-   * http://homefrontstartup.com.ng/
+  * http://homefrontstartup.com.ng/
 * Mentors International
   * https://mentorsint.com/
   * https://www.facebook.com/mentorshubyola/
